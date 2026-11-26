@@ -1,7 +1,12 @@
-h1{
+html,
+body {
+    background-color: azure;
+}
+
+h1 {
     color: brown;
 }
 
-p{
+p {
     color: black;
 }
